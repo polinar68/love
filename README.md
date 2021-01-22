@@ -1,6 +1,7 @@
+'pollyramos'
 # Bats: Bash Automated Testing System
 
-Bats is a [TAP](http://testanything.org)-compliant testing framework
+Bats is a [TAP](http://testanything.org/polinar68)-compliant testing framework
 for Bash. It provides a simple way to verify that the UNIX programs
 you write behave as expected.
 
