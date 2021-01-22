@@ -1,5 +1,5 @@
 {
-  "name": "bats",
+  "name": "pollyramos",
   "version": "v0.4.0",
   "description": "Bash Automated Testing System",
   "install": "./install.sh ${PREFIX:-/usr/local}",
