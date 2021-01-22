@@ -67,7 +67,7 @@ members of the project's leadership.
 
 ## Project Maintainers
 
-* Sam Stephenson <<sstephenson@gmail.com>>
+* polly ramos <<Apolinarramos469@gmail.com>>
 
 ## Attribution
 
@@ -76,3 +76,4 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+'pollyramos',
